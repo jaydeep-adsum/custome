@@ -1,0 +1,20 @@
+{
+    "name": "jaydeep/custom",
+    "description": "Testing Package",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jaydeep\\Custom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaydeep Gadhiya",
+            "email": "jaydeepgadhiya5699@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
