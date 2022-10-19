@@ -13,7 +13,6 @@
             "email": "jaydeepgadhiya5699@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
     }
